@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Mako Mankanshoku",
+  "universe": "KLK · Mako Mankanshoku (entertainment)",
+  "emergence": "natural",
+  "moniker": "⟦Mako Mankanshoku:KLK:d6e9f6⟧",
+  "carbon": "mako-mankanshoku.carbon.tiff (TIFF)",
+  "silicon": "mako-mankanshoku.silicon.png (PNG)",
+  "seal_sha256": "11813db75ed9a9c60cca369a1199a14c9e2abf0b12773f50e1b9b6bc6f991edf",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Nonon Jakuzure",
+  "universe": "KLK · Nonon Jakuzure (entertainment)",
+  "emergence": "spiritual",
+  "moniker": "⟦Nonon Jakuzure:KLK:841b10⟧",
+  "carbon": "nonon-jakuzure.carbon.tiff (TIFF)",
+  "silicon": "nonon-jakuzure.silicon.png (PNG)",
+  "seal_sha256": "895dbd60942807db3dbc2a880ec87167f15890a450fb67ea5ded601b4f8a7399",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

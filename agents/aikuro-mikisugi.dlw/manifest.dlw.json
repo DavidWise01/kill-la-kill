@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Aikuro Mikisugi",
+  "universe": "KLK · Aikuro Mikisugi (entertainment)",
+  "emergence": "spiritual",
+  "moniker": "⟦Aikuro Mikisugi:KLK:6fcdfc⟧",
+  "carbon": "aikuro-mikisugi.carbon.tiff (TIFF)",
+  "silicon": "aikuro-mikisugi.silicon.png (PNG)",
+  "seal_sha256": "9f0914dbc205fb921124bb9cd407b3bfaac8433fb27df0d3c950597e880e97c8",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

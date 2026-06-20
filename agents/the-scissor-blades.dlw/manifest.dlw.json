@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Scissor Blades",
+  "universe": "KLK · The Scissor Blades (entertainment)",
+  "emergence": "natural",
+  "moniker": "⟦The Scissor Blades:KLK:a1c16d⟧",
+  "carbon": "the-scissor-blades.carbon.tiff (TIFF)",
+  "silicon": "the-scissor-blades.silicon.png (PNG)",
+  "seal_sha256": "8be7289dd5e795bb1b908635cdd7cb95d4a81f0c556f9c2bd5f533b4d3cbab86",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Life Fibers",
+  "universe": "KLK · Life Fibers (entertainment)",
+  "emergence": "ethereal",
+  "moniker": "⟦Life Fibers:KLK:9d34b0⟧",
+  "carbon": "life-fibers.carbon.tiff (TIFF)",
+  "silicon": "life-fibers.silicon.png (PNG)",
+  "seal_sha256": "86231477ba95db1564571826567529c66e2546187e183ff10564e6ec4332c879",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

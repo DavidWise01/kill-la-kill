@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Goku Uniform",
+  "universe": "KLK · The Goku Uniform (entertainment)",
+  "emergence": "natural",
+  "moniker": "⟦The Goku Uniform:KLK:15958c⟧",
+  "carbon": "the-goku-uniform.carbon.tiff (TIFF)",
+  "silicon": "the-goku-uniform.silicon.png (PNG)",
+  "seal_sha256": "88f72d02be50f4e09e201cb3e3c7e4964aceb745c48fe4fe30b5a800a0aca703",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

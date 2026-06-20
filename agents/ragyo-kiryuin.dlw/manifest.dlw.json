@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Ragyo Kiryuin",
+  "universe": "KLK · Ragyo Kiryuin (entertainment)",
+  "emergence": "ethereal",
+  "moniker": "⟦Ragyo Kiryuin:KLK:8430df⟧",
+  "carbon": "ragyo-kiryuin.carbon.tiff (TIFF)",
+  "silicon": "ragyo-kiryuin.silicon.png (PNG)",
+  "seal_sha256": "b7bca27f111e82a77317bef751174e4a81b30f575fbe01e4644116d8271ff235",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

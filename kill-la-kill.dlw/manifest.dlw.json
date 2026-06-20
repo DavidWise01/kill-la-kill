@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "KILL LA KILL",
+  "universe": "KLK · KILL LA KILL (entertainment · anime-world)",
+  "emergence": "",
+  "moniker": "⟦KILL LA KILL:KLK:64802e⟧",
+  "carbon": "kill-la-kill.carbon.tiff (TIFF)",
+  "silicon": "kill-la-kill.silicon.png (PNG)",
+  "seal_sha256": "85bb2f3be9e949b058fb06107071790932ce5ca40e134200b0fdd5e5cab37f8e",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

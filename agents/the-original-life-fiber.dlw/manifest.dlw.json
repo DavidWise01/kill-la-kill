@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Original Life Fiber",
+  "universe": "KLK · The Original Life Fiber (entertainment)",
+  "emergence": "ethereal",
+  "moniker": "⟦The Original Life Fiber:KLK:46944f⟧",
+  "carbon": "the-original-life-fiber.carbon.tiff (TIFF)",
+  "silicon": "the-original-life-fiber.silicon.png (PNG)",
+  "seal_sha256": "efa5456f83c966f55111cb3bdd2b74ecbaf431d23fc22fc4498296dabd9dc3d0",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

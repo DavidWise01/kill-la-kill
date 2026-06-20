@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Houka Inumuta",
+  "universe": "KLK · Houka Inumuta (entertainment)",
+  "emergence": "electrical",
+  "moniker": "⟦Houka Inumuta:KLK:fd093b⟧",
+  "carbon": "houka-inumuta.carbon.tiff (TIFF)",
+  "silicon": "houka-inumuta.silicon.png (PNG)",
+  "seal_sha256": "64ee92f5eacc9fcc1dcc263b28172c50d7b1f85310bc17f6d6a745800b5aa9d4",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

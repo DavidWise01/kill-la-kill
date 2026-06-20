@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Tsumugu Kinagase",
+  "universe": "KLK · Tsumugu Kinagase (entertainment)",
+  "emergence": "natural",
+  "moniker": "⟦Tsumugu Kinagase:KLK:6590d6⟧",
+  "carbon": "tsumugu-kinagase.carbon.tiff (TIFF)",
+  "silicon": "tsumugu-kinagase.silicon.png (PNG)",
+  "seal_sha256": "789f4fc425853969cd4c37251bd1fcfc0043080949cd05d20bf70e701441b85e",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

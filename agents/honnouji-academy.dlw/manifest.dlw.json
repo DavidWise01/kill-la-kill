@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Honnouji Academy",
+  "universe": "KLK · Honnouji Academy (entertainment)",
+  "emergence": "natural",
+  "moniker": "⟦Honnouji Academy:KLK:2acab4⟧",
+  "carbon": "honnouji-academy.carbon.tiff (TIFF)",
+  "silicon": "honnouji-academy.silicon.png (PNG)",
+  "seal_sha256": "4ea49f06de029d315b23fae20afe81f8bd698c375340239f1ca5dbbb98e3e497",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

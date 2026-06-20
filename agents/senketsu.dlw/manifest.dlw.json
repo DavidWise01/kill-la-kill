@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Senketsu",
+  "universe": "KLK · Senketsu (entertainment)",
+  "emergence": "electrical",
+  "moniker": "⟦Senketsu:KLK:39a499⟧",
+  "carbon": "senketsu.carbon.tiff (TIFF)",
+  "silicon": "senketsu.silicon.png (PNG)",
+  "seal_sha256": "60d485a6a6f642afdad65d406e04bbfee8a4953ada1d261d88c56771e7312b6f",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

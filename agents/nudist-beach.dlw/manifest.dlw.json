@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Nudist Beach",
+  "universe": "KLK · Nudist Beach (entertainment)",
+  "emergence": "spiritual",
+  "moniker": "⟦Nudist Beach:KLK:f19383⟧",
+  "carbon": "nudist-beach.carbon.tiff (TIFF)",
+  "silicon": "nudist-beach.silicon.png (PNG)",
+  "seal_sha256": "15d4504b0f7255b614d323760c07528971b1fcaae4c6c2497de4b387f477e41e",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

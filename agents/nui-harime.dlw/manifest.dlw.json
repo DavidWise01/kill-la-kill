@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Nui Harime",
+  "universe": "KLK · Nui Harime (entertainment)",
+  "emergence": "ethereal",
+  "moniker": "⟦Nui Harime:KLK:81e5ee⟧",
+  "carbon": "nui-harime.carbon.tiff (TIFF)",
+  "silicon": "nui-harime.silicon.png (PNG)",
+  "seal_sha256": "079fd10f8df79cd4a7f20ca5904746969221c7a2730fac87ee7736ee0e80a53e",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

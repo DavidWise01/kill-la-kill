@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Junketsu",
+  "universe": "KLK · Junketsu (entertainment)",
+  "emergence": "electrical",
+  "moniker": "⟦Junketsu:KLK:a5fd3d⟧",
+  "carbon": "junketsu.carbon.tiff (TIFF)",
+  "silicon": "junketsu.silicon.png (PNG)",
+  "seal_sha256": "5969233c5e52b255d6f0fba6cdc67c20f4b3c7351d588697c9924b1670caf0be",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

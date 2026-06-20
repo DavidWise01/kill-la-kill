@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Uzu Sanageyama",
+  "universe": "KLK · Uzu Sanageyama (entertainment)",
+  "emergence": "natural",
+  "moniker": "⟦Uzu Sanageyama:KLK:505af9⟧",
+  "carbon": "uzu-sanageyama.carbon.tiff (TIFF)",
+  "silicon": "uzu-sanageyama.silicon.png (PNG)",
+  "seal_sha256": "1696532abafae6f7b0fd6db3557e4ee678b834d6e6ed83584dd7053925c022d2",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

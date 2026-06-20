@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Satsuki Kiryuin",
+  "universe": "KLK · Satsuki Kiryuin (entertainment)",
+  "emergence": "spiritual",
+  "moniker": "⟦Satsuki Kiryuin:KLK:b46366⟧",
+  "carbon": "satsuki-kiryuin.carbon.tiff (TIFF)",
+  "silicon": "satsuki-kiryuin.silicon.png (PNG)",
+  "seal_sha256": "4cff6cf9bf366ffaefc9021855617a821492a0044308a5c00512b66ff2c47bb4",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}
